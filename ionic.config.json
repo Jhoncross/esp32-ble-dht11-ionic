@@ -1,0 +1,7 @@
+{
+  "name": "app-esp32-blank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
